@@ -1,0 +1,5 @@
+{
+  "name": "REST-MongoDB-Template",
+  "description": "REST + MongoDB Template",
+  "keywords": ["node", "express", "mongodb", "REST", "API"]
+}
