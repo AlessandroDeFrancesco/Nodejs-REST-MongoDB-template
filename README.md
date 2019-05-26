@@ -1,4 +1,4 @@
-# Deploy Your Own REST API in 30 Mins Using mLabs and Heroku
+# Deploy Your Own REST API using MongoDB and NodeJS
 
 A template to easily deploy a REST server with a MongoDB database to Heroku or on your local machine.
 
