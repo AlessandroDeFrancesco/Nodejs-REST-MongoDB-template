@@ -37,7 +37,7 @@ A template to easily deploy a REST server with a MongoDB database to Heroku or o
 4. Run `git clone https://github.com/AlessandroDeFrancesco/Nodejs-REST-MongoDB-template.git`
 5. Run `npm install`
 6. Depends on your OS:
-  1. On Linux Ubuntu Run `export MONGODB_URI="mongodb://localhost:27017/gamesDB"`.
-  2. On Windows Powershell Run `$env:MONGODB_URI="mongodb://localhost:27017/gamesDB"`
+    1. On Linux Ubuntu Run `export MONGODB_URI="mongodb://localhost:27017/gamesDB"`.
+    2. On Windows Powershell Run `$env:MONGODB_URI="mongodb://localhost:27017/gamesDB"`
 7. Run `npm start`
 8. Open a browser and type the URL "http://localhost:8080/games"
